@@ -1,4 +1,5 @@
 ### Hi there 👋
+![badge codewars](https://www.codewars.com/users/Luisttine/badges/large)
 
 <!--
 **Luisttine/Luisttine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
