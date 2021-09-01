@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![badge codewars](https://www.codewars.com/users/Luisttine/badges/large)
 
+[![Luisttine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisttine)](https://github.com/Luisttine/github-readme-stats)
+
+
 <!--
 **Luisttine/Luisttine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
