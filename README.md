@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![badge codewars](https://www.codewars.com/users/Luisttine/badges/large)
 
-[![Luisttine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisttine)](https://github.com/Luisttine/github-readme-stats)
 ![Luisttine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisttine&show_icons=true&theme=radical)
 
 
